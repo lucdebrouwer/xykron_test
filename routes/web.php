@@ -15,6 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/welcome', function() {
-    return "Hello!";
-});
+Route::get('/about', 'PagesController@about');
+Route::get('/book', 'PagesController@book');
