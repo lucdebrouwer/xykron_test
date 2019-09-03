@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <div>
+                <h1>Hello Test</h1>
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
